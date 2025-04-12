@@ -50,22 +50,6 @@ Each prediction model accepts user input via form fields:
 
 ---
 
-## ▶️ How to Run
-
-```bash
-git clone https://github.com/yourusername/multiple-disease-predictor
-cd multiple-disease-predictor
-pip install -r requirements.txt
-streamlit run app.py
-```
-
----
-
-## 🖼️ Screenshots
-
-> (Add 2–3 screenshots here showing the app UI + prediction result)
-
----
 
 ## 🧠 Key Learning
 
@@ -73,15 +57,3 @@ streamlit run app.py
 - Different ML algorithms perform better for different diseases
 - Deployment with Streamlit is fast and user-friendly
 
----
-
-## 🙋‍♂️ Author
-
-**Anurag Singh**  
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername)
-
----
-
-## 📌 License
-
-This project is licensed under the MIT License.
